@@ -56,3 +56,10 @@ The analyses conducted provide a comprehensive understanding of Instacart custom
 - **Loyalty Programs**: Enhance loyalty programs to retain regular and loyal customers.
 - **Product Pricing**: Optimize pricing strategies for popular products to maximize sales and customer satisfaction.
 
+---------------------------------------------------------------------------------------o------------------------------------------------------------
+
+#Important Note:
+
+Due the high size of the folder, the data files were not included in the folder. all the results and the steps can be vizualized in the "Script" folder.
+
+
