@@ -58,7 +58,7 @@ The analyses conducted provide a comprehensive understanding of Instacart custom
 
 ---------------------------------------------------------------------------------------o------------------------------------------------------------
 
-#Important Note:
+# Important Note:
 
 Due the high size of the folder, the data files were not included in the folder. all the results and the steps can be vizualized in the "Script" folder.
 
